@@ -1,22 +1,15 @@
 {
- "generated_at": "2026-10-28T23:57+03:00",
- "catalog_size": 269,
+ "generated_at": "2026-10-29T01:55+03:00",
+ "catalog_size": 275,
  "ok": true,
  "notes": [
-  "NBU USD rate above config: priced at 45.83 instead of 45.5"
+  "NBU USD rate above config: priced at 45.82 instead of 45.5"
  ],
  "offers": 492,
  "linked": 252,
  "in_stock": 148,
- "held_jumps": 1,
- "usd_rate": 45.83,
- "loss_guard_raised": 1,
- "loss_guard_items": [
-  {
-   "sku": "ГБ03-002",
-   "offer_id": "3193627174",
-   "usd": 37.0,
-   "new_price": 2299
-  }
- ]
+ "held_jumps": 0,
+ "usd_rate": 45.82,
+ "loss_guard_raised": 0,
+ "loss_guard_items": []
 }
