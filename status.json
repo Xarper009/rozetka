@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-29T16:04+03:00",
- "catalog_size": 276,
+ "generated_at": "2026-10-29T18:08+03:00",
+ "catalog_size": 279,
  "ok": true,
  "notes": [
   "NBU USD rate above config: priced at 45.82 instead of 45.5"
  ],
  "offers": 492,
  "linked": 252,
- "in_stock": 148,
+ "in_stock": 147,
  "held_jumps": 0,
  "usd_rate": 45.82,
  "loss_guard_raised": 0,
