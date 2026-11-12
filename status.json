@@ -1,13 +1,16 @@
 {
- "generated_at": "2026-11-12T17:55+03:00",
+ "generated_at": "2026-11-12T18:50+03:00",
  "catalog_size": 206,
  "ok": true,
- "notes": [],
+ "notes": [
+  "Droptools USD rate above config: priced at 46.6 instead of 45.5"
+ ],
  "offers": 492,
  "linked": 163,
- "in_stock": 0,
+ "in_stock": 78,
  "held_jumps": 0,
- "usd_rate": 45.5,
+ "usd_rate": 46.6,
  "loss_guard_raised": 0,
- "loss_guard_items": []
+ "loss_guard_items": [],
+ "blocked_brand_offers": 95
 }
