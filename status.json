@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-13T11:56+03:00",
+ "generated_at": "2026-11-13T13:56+03:00",
  "catalog_size": 206,
  "ok": true,
  "notes": [
-  "Droptools USD rate above config: priced at 46.6 instead of 45.5"
+  "Droptools USD rate above config: priced at 46.5 instead of 45.5"
  ],
  "sodteh_items": 18,
  "offers": 561,
  "linked": 233,
  "in_stock": 113,
  "held_jumps": 0,
- "usd_rate": 46.6,
+ "usd_rate": 46.5,
  "loss_guard_raised": 1,
  "loss_guard_items": [
   {
    "sku": "ЗС02-008",
    "offer_id": "DT-ZS02-008",
    "usd": 900.0,
-   "new_price": 54099
+   "new_price": 53999
   }
  ],
  "blocked_brand_offers": 97
