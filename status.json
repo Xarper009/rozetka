@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T11:56+03:00",
+ "generated_at": "2026-11-14T13:56+03:00",
  "catalog_size": 206,
  "ok": true,
  "notes": [
@@ -11,14 +11,7 @@
  "in_stock": 113,
  "held_jumps": 0,
  "usd_rate": 46.5,
- "loss_guard_raised": 1,
- "loss_guard_items": [
-  {
-   "sku": "ЗС02-008",
-   "offer_id": "DT-ZS02-008",
-   "usd": 900.0,
-   "new_price": 53999
-  }
- ],
+ "loss_guard_raised": 0,
+ "loss_guard_items": [],
  "blocked_brand_offers": 97
 }
