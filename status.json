@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T13:55+03:00",
+ "generated_at": "2026-11-22T15:55+03:00",
  "catalog_size": 199,
  "ok": true,
  "notes": [
@@ -11,8 +11,14 @@
  "in_stock": 114,
  "held_jumps": 0,
  "usd_rate": 46.0,
- "loss_guard_raised": 1,
+ "loss_guard_raised": 2,
  "loss_guard_items": [
+  {
+   "sku": "ЗС02-003",
+   "offer_id": "3203401227",
+   "usd": 880.0,
+   "new_price": 52299
+  },
   {
    "sku": "ЗС02-009",
    "offer_id": "DT-ZS02-009",
