@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T17:55+03:00",
+ "generated_at": "2026-11-25T19:55+03:00",
  "catalog_size": 209,
  "ok": true,
  "notes": [
@@ -22,8 +22,8 @@
   {
    "sku": "ЗС02-009",
    "offer_id": "DT-ZS02-009",
-   "usd": 875.0,
-   "new_price": 51999
+   "usd": 850.0,
+   "new_price": 50499
   }
  ],
  "blocked_brand_offers": 97
